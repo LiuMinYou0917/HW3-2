@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\asus\desktop\北科大\高階程式語言設計\homework ch3_2\110360237_劉泯佑_hw3_2\5.35\source\main.c(8): warning C4101: 'z': 未參考的區域變數
+c:\users\asus\desktop\北科大\高階程式語言設計\homework ch3_2\110360237_劉泯佑_hw3_2\5.35\source\main.c(10): warning C4101: 'q': 未參考的區域變數
+c:\users\asus\desktop\北科大\高階程式語言設計\homework ch3_2\110360237_劉泯佑_hw3_2\5.35\source\main.c(9): warning C4101: 'x': 未參考的區域變數
+  5.35.vcxproj -> C:\Users\asus\Desktop\北科大\高階程式語言設計\Homework CH3_2\110360237_劉泯佑_hw3_2\5.35\5.35\Debug\5.35.exe
